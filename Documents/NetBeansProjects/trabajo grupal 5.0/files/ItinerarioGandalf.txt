@@ -1,0 +1,11 @@
+Visitante: Nombre: Gandalf; Presupuesto: 55.0; Tiempo: 9.0; Preferencia: PAISAJE
+--------------------------------------------------------------  
+Itinerario
+--------------------------------------------------------------  
+Nombre Promocion: PACK PAISAJE; Tipo: Gratis ; Atraccion gratuita: Erebor; Costo: 10.0; Tiempo: 40.0
+       Nombre: Minas Tirith; Costo: 5.0; Cupo diponibre: 23; Tiempo: 2.5; Tipo: PAISAJE
+       Nombre: Abismo de Helm; Costo: 5.0; Cupo diponibre: 14; Tiempo: 2.0; Tipo: PAISAJE
+       Nombre: Erebor; Costo: 12.0; Cupo diponibre: 31; Tiempo: 3.0; Tipo: PAISAJE
+Nombre: Lothlórien; Costo: 35.0; Cupo diponibre: 29; Tiempo: 1.0; Tipo: DEGUSTACION
+--------------------------------------------------------------  
+Total a pagar: 45.0 Tiempo: 43.0
